@@ -1,5 +1,5 @@
 # BMI_Calculator
-A BMI calculator using Android studio
+(A BMI calculator using Android studio)
 
 **Body Mass Index (BMI)** is a numerical value calculated based on a person's height and weight. It is a commonly used method to assess whether an individual has a healthy body weight relative to their height. BMI provides a general indication of body fatness and is widely used in medical, fitness, and public health contexts.
 
