@@ -11,4 +11,10 @@
     <color name="background_layout">#1B1D20</color>
     <color name="cardView">#243250</color>
     <color name="txt_hint">#8D929E</color>
+
+    <color name="under_weight">#DFB63A</color>
+    <color name="normal">#55CC23</color>
+    <color name="over_weight">#CF625A</color>
+    <color name="obese">#ED0505</color>
+
 </resources>
