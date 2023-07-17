@@ -3,13 +3,16 @@ A BMI calculator using Android studio
 
 **Body Mass Index (BMI)** is a numerical value calculated based on a person's height and weight. It is a commonly used method to assess whether an individual has a healthy body weight relative to their height. BMI provides a general indication of body fatness and is widely used in medical, fitness, and public health contexts.
 
+
 The formula to calculate BMI is as follows:
 
 _**BMI = weight (in kilograms) / height^2 (in meters)**_
 
 The resulting value is expressed in kilograms per square meter (kg/m^2). BMI provides a rough estimate of body fatness because it does not directly measure body composition, such as muscle mass or body fat distribution.
 
-_Interpreting BMI values generally follows the following categories:_
+
+
+<u>_Interpreting BMI values generally follows the following categories:_</u>
 
 **1. Underweight: BMI less than 18.5**
 
@@ -27,6 +30,7 @@ An individual with a BMI in this range is classified as overweight, indicating a
 
 BMI values of 30 or above indicate obesity, which is associated with significantly increased health risks. Obesity increases the likelihood of developing chronic conditions like heart disease, stroke, high blood pressure, type 2 diabetes, and certain types of cancer.
 
+
 While BMI provides a useful initial assessment of weight status, it does have limitations. It does not differentiate between fat mass and muscle mass, which can lead to inaccurate classifications, especially for athletes or individuals with higher muscle mass. Additionally, it does not consider other factors such as age, gender, bone density, and body fat distribution, which may impact overall health. Therefore, it is important to interpret BMI values in conjunction with other health indicators and consult with healthcare professionals for a comprehensive assessment.
 
-Here I created a BMI calculator using Android Studio to practice and get experience in Mobile App Development. 
+Here, I created a BMI calculator using Android Studio to practice and get experience in Mobile App Development. 
